@@ -8,6 +8,12 @@
 
 <br>
 
+<a href="https://shivam-portfolio-bay-two.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Live-EF4444?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<br>
+
 <img src="https://komarev.com/ghpvc/?username=Marvel0007&label=Profile%20Views&color=ef4444&style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/followers/Marvel0007?style=for-the-badge&color=ef4444&logo=github"/>
