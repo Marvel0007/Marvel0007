@@ -2,7 +2,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> Hi, I'm Shivam Shukla
 
-### Full Stack Developer • Backend Engineer • AI Enthusiast
+### Software Developer • Backend Engineer • AI Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=EF4444&center=true&vCenter=true&width=900&lines=Building+Scalable+Web+Applications;Next.js+%7C+React+%7C+Node.js;MongoDB+%7C+REST+APIs;AI+Powered+Projects;Open+for+Internships+%26+Freelancing"/>
 
@@ -29,7 +29,7 @@
 ```bash
 > whoami
 
-Role        : Full Stack Developer
+Role        : Software Developer
 
 Status      : 🟢 Available for Internships
               🟢 Open for Freelancing
