@@ -113,10 +113,6 @@ Status      : 🟢 Available for Internships
 
 <p align="center">
 
-<a href="https://github.com/Marvel0007">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
 <a href="https://www.linkedin.com/in/shivam-shukla-994917351/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
