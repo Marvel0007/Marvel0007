@@ -74,9 +74,7 @@ Status      : 🟢 Available for Internships
 # 📈 Contribution Activity
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Marvel0007&theme=react-dark&hide_border=true&bg_color=0d1117&color=ef4444&line=ef4444&point=ffffff"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marvel0007&hide_border=true&background=0D1117&ring=EF4444&fire=EF4444&currStreakNum=FFFFFF&currStreakLabel=EF4444&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="Marvel0007's Contribution Streak" />
 </div>
 
 ---
