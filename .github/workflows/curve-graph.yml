@@ -2,8 +2,12 @@ name: Generate Curved Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily
-  workflow_dispatch: # Allows manual run
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+# THIS IS THE FIX: It gives the action permission to save the image
+permissions:
+  contents: write
 
 jobs:
   build:
