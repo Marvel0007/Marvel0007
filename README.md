@@ -79,6 +79,12 @@ Status      : 🟢 Available for Internships
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Marvel0007/Marvel0007/output/curved-graph.svg" alt="Beautiful Curved Graph" />
+</div>
+
+---
+
 # 💻 Coding Profiles
 
 <div align="center">
