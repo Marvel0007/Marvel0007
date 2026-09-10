@@ -18,7 +18,7 @@
 
 <img src="https://img.shields.io/github/followers/Marvel0007?style=for-the-badge&color=ef4444&logo=github"/>
 
-<img src="https://img.shields.io/github/stars/Marvel0007?style=for-the-badge&color=ef4444"/>
+<img src="https://img.shields.io/github/stars/Marvel0007?style=for-the-badge&color=ef4444&label=Total%20Stars"/>
 
 </div>
 
