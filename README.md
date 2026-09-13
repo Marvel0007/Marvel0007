@@ -39,7 +39,11 @@ Status      : 🟢 Available for Internships
 
 <div align="center">
 
-<img src="./assets/tech-stack.svg" width="900" alt="Shivam Shukla Animated Tech Stack"/>
+<img
+  src="./assets/tech-stack.gif"
+  alt="Animated Technology Stack"
+  width="900"
+/>
 
 </div>
 
