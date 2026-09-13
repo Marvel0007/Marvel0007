@@ -24,17 +24,6 @@
 
 ---
 
-## 💻 Terminal
-
-```bash
-> whoami
-
-Role        : Software Developer
-
-Status      : 🟢 Available for Internships
-              🟢 Open for Freelancing
-```
-
 # ⚡ Tech Stack
 
 <div align="center">
