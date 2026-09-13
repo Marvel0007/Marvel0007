@@ -39,35 +39,9 @@ Status      : 🟢 Available for Internships
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,prisma,tailwind,git,github,vscode,postman&perline=7"/>
+<img src="./assets/tech-stack.svg" width="900" alt="Animated Tech Stack"/>
 
 </div>
-
-<br>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Auth.js-black?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/REST_API-ef4444?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Zustand-593D88?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge"/>
-
-</p>
 
 ---
 
