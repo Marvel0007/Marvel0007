@@ -6,6 +6,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=EF4444&center=true&vCenter=true&width=900&lines=Building+Scalable+Web+Applications;Next.js+%7C+React+%7C+Node.js;MongoDB+%7C+REST+APIs;AI+Powered+Projects;Open+for+Internships+%26+Freelancing"/>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marvel0007&hide_border=true&background=0D1117&ring=EF4444&fire=EF4444&currStreakNum=FFFFFF&currStreakLabel=EF4444&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="Marvel0007's Contribution Streak" />
+</div>
+
 <br>
 
 <a href="https://shivam-portfolio-bay-two.vercel.app/">
@@ -24,6 +28,7 @@
 
 ---
 
+
 # ⚡ Tech Stack
 
 <div align="center">
@@ -36,13 +41,8 @@
 
 </div>
 
----
 
 # 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marvel0007&hide_border=true&background=0D1117&ring=EF4444&fire=EF4444&currStreakNum=FFFFFF&currStreakLabel=EF4444&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="Marvel0007's Contribution Streak" />
-</div>
 
 ---
 
@@ -50,9 +50,10 @@
   <img src="https://raw.githubusercontent.com/Marvel0007/Marvel0007/output/curved-graph.svg" alt="Beautiful Curved Graph" />
 </div>
 
----
 
 # 💻 Coding Profiles
+
+---
 
 <div align="center">
 
@@ -82,6 +83,8 @@
 
 # 🌐 Let's Connect
 
+---
+
 <p align="center">
 
 <a href="https://www.linkedin.com/in/shivam-shukla-994917351/">
@@ -90,7 +93,6 @@
 
 </p>
 
----
 
 <div align="center">
 
